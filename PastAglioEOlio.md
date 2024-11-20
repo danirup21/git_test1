@@ -4,5 +4,4 @@
 * Aglio
 * Olio
 * Pepe Nero
-* Spaghetti
-* Parmigiano(a piacimento)
+* Spaghetti --> ho eliminato la riga "Parmigiano(a piacimento)"
